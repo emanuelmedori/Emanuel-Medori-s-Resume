@@ -598,11 +598,8 @@ progress {
 }
 
 .img-fluid {
-  /*max-width: 100%;*/
-  /*height: auto;*/
-  width: 300px !important;
-  height: 400px !important; 
-  object-fit: cover; /*let's see if it works*/ 
+  max-width: 100%;
+  height: auto;
 }
 
 .img-thumbnail {
